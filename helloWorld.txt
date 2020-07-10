@@ -1,2 +1,7 @@
 heheda
 now in branch wyx
+<<<<<<< Updated upstream
+change after stash 
+=======
+message for stash
+>>>>>>> Stashed changes
